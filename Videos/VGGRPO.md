@@ -22,3 +22,8 @@ They use **GRPO** in the latent-space with two complementary rewards:
 ![[vggrpo.pdf]]
 
 
+### Brief Method Explanation
+- Take input frames, put them through a geometry foundation model which works in pixel space
+- Take the diffusion model's VAE, put that through its own *latent-space* layer and align the losses like distillation
+- Next part is use LoRA layers for doing post-training fine-tune. The de-noised latent model spits out will have two rewards:
+	- 
