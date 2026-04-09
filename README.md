@@ -3,7 +3,8 @@
 This repository is a personal paper-reading log.
 
 The scope is intentionally simple: for each paper I read, I upload a Markdown (`.md`) file that highlights the main ideas, problems, methods, and takeaways from that paper. In some cases, I may also keep the original PDF next to the note for reference.
-
+## List
+- April 9, 2026 [Videos/VGGRPO.md]
 ## What This Repo Contains
 
 - Short Markdown notes for individual research papers
