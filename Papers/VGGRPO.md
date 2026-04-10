@@ -19,7 +19,7 @@ They use **GRPO** in the latent-space with two complementary rewards:
 - A camera motion smoothness reward that penalizes jittery trajectories
 - A geometry re-projection consistency reward that enforces cross-view geometric coherence
 
-![[vggrpo.pdf]]
+[Local PDF copy](vggrpo.pdf)
 
 
 ### Brief Method Explanation
