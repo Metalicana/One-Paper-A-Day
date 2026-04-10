@@ -7,7 +7,7 @@ For each paper, I keep a short Markdown note with the main ideas, methods, and t
 ## Papers
 
 - April 9, 2026: [Papers/VGGRPO.md](Papers/VGGRPO.md)
-
+- April 10, 2026: [Papers/Scaling Laws of Synthetic Images for Model Training ... for Now.md](Papers/Scaling%20Laws%20of%20Synthetic%20Images%20for%20Model%20Training%20...%20for%20Now.md)
 ## Structure
 
 All notes and related files live in [`Papers`](/Users/metalicana/One-Paper-A-Day/Papers).
