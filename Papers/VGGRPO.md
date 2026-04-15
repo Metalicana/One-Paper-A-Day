@@ -1,4 +1,3 @@
-## VGGRPO
 
 **Link:** https://arxiv.org/abs/2603.26599  
 **Authors:** [Zhaochong An](https://arxiv.org/search/cs?searchtype=author&query=An,+Z), [Orest Kupyn](https://arxiv.org/search/cs?searchtype=author&query=Kupyn,+O), [Théo Uscidda](https://arxiv.org/search/cs?searchtype=author&query=Uscidda,+T), [Andrea Colaco](https://arxiv.org/search/cs?searchtype=author&query=Colaco,+A), [Karan Ahuja](https://arxiv.org/search/cs?searchtype=author&query=Ahuja,+K), [Serge Belongie](https://arxiv.org/search/cs?searchtype=author&query=Belongie,+S), [Mar Gonzalez-Franco](https://arxiv.org/search/cs?searchtype=author&query=Gonzalez-Franco,+M), [Marta Tintore Gazulla](https://arxiv.org/search/cs?searchtype=author&query=Gazulla,+M+T)  

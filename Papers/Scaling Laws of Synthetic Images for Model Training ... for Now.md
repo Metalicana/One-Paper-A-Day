@@ -1,4 +1,3 @@
-## Scaling Laws of Synthetic Images for Model Training ... for Now
 
 **Link:** [https://arxiv.org/abs/2312.04567](https://arxiv.org/abs/2312.04567)  
 **Authors:** [Lijie Fan](https://arxiv.org/search/cs?searchtype=author&query=Fan,+L), [Kaifeng Chen](https://arxiv.org/search/cs?searchtype=author&query=Chen,+K), [Dilip Krishnan](https://arxiv.org/search/cs?searchtype=author&query=Krishnan,+D), [Dina Katabi](https://arxiv.org/search/cs?searchtype=author&query=Katabi,+D), [Phillip Isola](https://arxiv.org/search/cs?searchtype=author&query=Isola,+P), [Yonglong Tian](https://arxiv.org/search/cs?searchtype=author&query=Tian,+Y)

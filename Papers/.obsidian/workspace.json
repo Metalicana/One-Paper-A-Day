@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scaling Laws of Synthetic Images for Model Training ... for Now.md",
+                "file": "Fast-WAM DoWorld Action Models Need Test-time Future Imagination?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scaling Laws of Synthetic Images for Model Training ... for Now"
+              "title": "Fast-WAM DoWorld Action Models Need Test-time Future Imagination?"
             }
           }
         ],
@@ -200,6 +200,13 @@
   },
   "active": "9eb1d9567f2c053e",
   "lastOpenFiles": [
+    "figures/fastwam2.png",
+    "figures/fastwam1.png",
+    "figures/teaser_main_new-1.png",
+    "figures/model_arch-1.png",
+    "Scaling Laws of Synthetic Images for Model Training ... for Now.md",
+    "VGGRPO.md",
+    "Fast-WAM DoWorld Action Models Need Test-time Future Imagination?.md",
     "figures/vggrpo-1.png",
     "figures/ood_scaling_acc_loss_update2.png",
     "figures/all_scaling_beyond4M_update.png",
@@ -210,8 +217,6 @@
     "figures",
     "ood_scaling_acc_loss_update2.pdf",
     "all_scaling_beyond4M_update.pdf",
-    "VGGRPO.md",
-    "Scaling Laws of Synthetic Images for Model Training ... for Now.md",
     "vggrpo.pdf",
     "Welcome.md"
   ]
